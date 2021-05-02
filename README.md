@@ -20,4 +20,4 @@ Talk to me about
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
-- 🎯 Check out my Live Covid19 Tracker Dashboard: [Covid Dashboard](http://covid19-tracker-abhay.herokuapp.com/)
+- 🎯 Check out my Live Covid19 Tracker Dashboard: [Covid Dashboard](https://covid19-tracker-abhay.herokuapp.com/)
