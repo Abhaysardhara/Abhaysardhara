@@ -13,11 +13,19 @@ I live in Surat, India and studying software engineering at NIT Allahabad🏫. I
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript, Bootstrap**
-- Backend development using **MongoDB, Node, PHP**
+- Backend development using **NodeJs, ExpressJs, PHP**
+- Some libraries : Socket.io, P5.js
+- Database : MongoDB, MySQL, Redis
 - Creating small projects using **Computer Vision Python**
 - Making for **Relational Database Management Systems**
 - Robust full-stack system design implementation
-- Solving Data structure and algorithm questions in **C++ and Python**
+- Solving Data structure and algorithm questions in **C++ ❤️ and Python**
+
+
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhaysardhara&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
+</p> 
+
 
 ## Hello World!! 🤔
 - 💬 Ask me about anything and everything.
