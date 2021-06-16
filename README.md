@@ -21,10 +21,17 @@ Talk to me about
 - Robust full-stack system design implementation
 - Solving Data structure and algorithm questions in **C++ ❤️ and Python**
 
-## Github Stats
+## Github stats :bar_chart:
+
+<h4 align="center">Top langs :smile:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhaysardhara&langs_count=10&theme=tokyonight&layout=compact" alt="Abhaysardhara :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhaysardhara&&show_icons=true&theme=radical" alt="Pramod's Github Stats">
-</p> 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhaysardhara&&show_icons=true&theme=radical" alt="Abhaysardhara">
+</p>
 
 
 ## Hello World!! 🤔
